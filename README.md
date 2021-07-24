@@ -5,8 +5,7 @@
 ###### 无需 Photoshop 或 Sketch 处理！
 ###### 直接将您的图片变成一张的精美的主图或图像。
 
-![图片盒子](https://user-images.githubusercontent.com/16060827/126860057-768d0188-20b0-4bd9-b04c-720522d64038.png)
-
+![图片盒子](https://user-images.githubusercontent.com/16060827/126860076-6b4eae24-00e9-4051-bc33-fa5b851c0f5b.jpg)
 
 ### 视窗
 * 在不同的窗口风格之间进行选择。将您的图片放在浏览器窗口、普通窗口或无窗口中以获得漂亮的背景
